@@ -39,11 +39,12 @@ class Employee(models.Model):
 
 class EmployeeAdmin(admin.ModelAdmin):
     list_display = ('eid', 'name', 'salary', 'age', 'email')
-     OUTPUT
-ORM/name/Screenshot 2025-10-08 081825.png
+     ##OUTPUT
+
 
 
 Include the screenshot of your admin page.
+ORM/name/Screenshot 2025-10-08 081825.png
 
 
 ## RESULT
